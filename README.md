@@ -1,10 +1,17 @@
+# Udacity Project- Recoverability in AWS
+This is one of the project in Udacity AWS Cloud Architect Nanodegree.
+
+## Project Files
+
+- `cloudformation`: This folder contains the CloudFormation template. 
+- `s3`: This folder contains artifacts of static website.
+- `screenshots`: This folder contains all the screenshots taken at time of doing project.
+- `estimates.md`: This file explains the RPO and RTO for the project setup.
+
+
 # Data durability and recovery
 
 In this project you will create highly available solutions to common use cases.  You will build a Multi-AvailabilityZone, Multi-Region database and show how to use it in multiple geographically separate AWS regions.  You will also build a website hosting solution that is versioned so that any data destruction and accidents can be quickly and easily undone.
-
-## Getting Started
-
-To get started, clone this repo.  Aside from instructions, it contains a CloudFormation script to build an AWS VPC with public and private subnets.  It also contains an example website that you will host in an AWS S3 bucket in your account.
 
 ## Project Instructions
 ### Cloud formation
